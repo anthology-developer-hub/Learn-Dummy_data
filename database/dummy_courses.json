@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 0,
+    "values": {
+      "courseId": "PHIL-PINESS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Happiness",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 1,
+    "values": {
+      "courseId": "PSYC-GHOSTS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Ghosts",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "values": {
+      "courseId": "SOCI-TERNET-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Internet",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "values": {
+      "courseId": "MAMA-MBLING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Mamatics of Gambling",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "values": {
+      "courseId": "ECON-PINESS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Economics of Happiness",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "values": {
+      "courseId": "POLI-HUMOR-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Politics of Humor",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "values": {
+      "courseId": "LITE-ANTASY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of Fantasy",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "values": {
+      "courseId": "PHYS-ASTERS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Physics of Roller Coasters",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "values": {
+      "courseId": "ETHI-ROBOTS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Ethics of Robots",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "values": {
+      "courseId": "BUSI-LYWOOD-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Business of Hollywood",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "values": {
+      "courseId": "GEOL-FGEMS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Geology of Gems",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "values": {
+      "courseId": "CHEM-OOKING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Chemistry of Cooking",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "values": {
+      "courseId": "SOCI-UALITY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Aliens",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "values": {
+      "courseId": "HIST-FWINE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Wine",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "values": {
+      "courseId": "PSYC-FLOVE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Love",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "values": {
+      "courseId": "PHIL-ULNESS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Mindfulness",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "values": {
+      "courseId": "MAMA-MUSIC-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Mamatics of Music",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "values": {
+      "courseId": "ECON-SPORTS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Economics of Sports",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "values": {
+      "courseId": "POLI-ICTION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Politics of Science Fiction",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "values": {
+      "courseId": "ANTH-ASHION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Anthropology of Fashion",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "values": {
+      "courseId": "LITE-HORROR-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of Horror",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "values": {
+      "courseId": "PHYS-SPORTS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Physics of Sports",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "values": {
+      "courseId": "ETHI-IGENCE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Ethics of Artificial Intelligence",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "values": {
+      "courseId": "BUSI-GAMING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Business of Gaming",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "values": {
+      "courseId": "GEOL-OFOIL-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Geology of Oil",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "values": {
+      "courseId": "CHEM-MAKING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Chemistry of Wine Making",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "values": {
+      "courseId": "SOCI-ULTURE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Culture",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "values": {
+      "courseId": "HIST-COLATE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Chocolate",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "values": {
+      "courseId": "PSYC-FFEAR-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Fear",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "values": {
+      "courseId": "PHIL-ETHICS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Ethics",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "values": {
+      "courseId": "MAMA-MAGIC-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Mamatics of Magic",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "values": {
+      "courseId": "ECON-ASHION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Economics of Fashion",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "values": {
+      "courseId": "POLI-ORIES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Politics of Conspiracy ories",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "values": {
+      "courseId": "ANTH-BEAUTY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Anthropology of Beauty",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "values": {
+      "courseId": "LITE-ICTION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of Science Fiction",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "values": {
+      "courseId": "PHYS-SOUND-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Physics of Sound",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "values": {
+      "courseId": "ETHI-NOLOGY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Ethics of Biotechnology",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "values": {
+      "courseId": "BUSI-ULTURE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Business of Pop Culture",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "values": {
+      "courseId": "GEOL-AMONDS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Geology of Diamonds",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "values": {
+      "courseId": "CHEM-ERFUME-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Chemistry of Perfume",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "values": {
+      "courseId": "HIST-FBEER-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Beer",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 41,
+    "values": {
+      "courseId": "PHIL-IALISM-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Existentialism",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "values": {
+      "courseId": "MAMA-OFART-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Mamatics of Art",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "values": {
+      "courseId": "ECON-FFILM-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Economics of Film",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "values": {
+      "courseId": "POLI-GAMES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Politics of Video Games",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "values": {
+      "courseId": "ANTH-ATTOOS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Anthropology of Tattoos",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "values": {
+      "courseId": "LITE-TERIES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of Mysteries",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "values": {
+      "courseId": "PHYS-FLIGHT-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Physics of Flight",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "values": {
+      "courseId": "ETHI-LONING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Ethics of Cloning",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 49,
+    "values": {
+      "courseId": "BUSI-ORKING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Business of Social Networking",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "values": {
+      "courseId": "GEOL-QUAKES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Geology of Earthquakes",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 51,
+    "values": {
+      "courseId": "CHEM-METICS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Chemistry of Cosmetics",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 52,
+    "values": {
+      "courseId": "HIST-COFFEE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Coffee",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 53,
+    "values": {
+      "courseId": "PSYC-ICTION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Addiction",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 54,
+    "values": {
+      "courseId": "PHIL-RIGHTS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Human Rights",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 55,
+    "values": {
+      "courseId": "MAMA-GRAPHY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Mamatics of Cryptography",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 56,
+    "values": {
+      "courseId": "ECON-MBLING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Economics of Gambling",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 57,
+    "values": {
+      "courseId": "POLI-RORISM-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Politics of the avengers",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 58,
+    "values": {
+      "courseId": "ANTH-CATION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Anthropology of Body Modification",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 59,
+    "values": {
+      "courseId": "LITE-COMEDY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of Comedy",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 60,
+    "values": {
+      "courseId": "PHYS-TRAVEL-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Physics of Space Travel",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 61,
+    "values": {
+      "courseId": "ETHI-RIVACY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Ethics of Privacy",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 62,
+    "values": {
+      "courseId": "BUSI-KETING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Business of Sports Marketing",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 63,
+    "values": {
+      "courseId": "GEOL-CANOES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Geology of Volcanoes",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 64,
+    "values": {
+      "courseId": "CHEM-NIQUES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Chemistry of Cooking Techniques",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 65,
+    "values": {
+      "courseId": "HIST-OFTEA-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Tea",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 66,
+    "values": {
+      "courseId": "PHIL-EWILL-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Free Will",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 67,
+    "values": {
+      "courseId": "MAMA-MEORY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Mamatics of Game ory",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 68,
+    "values": {
+      "courseId": "ECON-EBRITY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Economics of Celebrity",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 69,
+    "values": {
+      "courseId": "POLI-TERNET-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Politics of Internet",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 70,
+    "values": {
+      "courseId": "ANTH-EALITY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Anthropology of Virtual Reality",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 71,
+    "values": {
+      "courseId": "LITE-OMANCE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of Romance",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 72,
+    "values": {
+      "courseId": "PHYS-ENERGY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Physics of Energy",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 73,
+    "values": {
+      "courseId": "ETHI-RIGHTS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Ethics of Animal Rights",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 74,
+    "values": {
+      "courseId": "BUSI-RVICES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Business of Streaming Services",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 75,
+    "values": {
+      "courseId": "GEOL-ASTERS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Geology of Natural Disasters",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 76,
+    "values": {
+      "courseId": "CHEM-TATION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Chemistry of Fermentation",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 77,
+    "values": {
+      "courseId": "SOCI-LLNESS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Mental Illness",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 78,
+    "values": {
+      "courseId": "HIST-HISKEY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Whiskey",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 79,
+    "values": {
+      "courseId": "PSYC-MEMORY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Memory",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 80,
+    "values": {
+      "courseId": "PHIL-LIGION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Religion",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 81,
+    "values": {
+      "courseId": "MAMA-ACTALS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Mamatics of Fractals",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 82,
+    "values": {
+      "courseId": "ECON-BRANDS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Economics of Luxury Brands",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 83,
+    "values": {
+      "courseId": "POLI-PULISM-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Politics of Populism",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 84,
+    "values": {
+      "courseId": "ANTH-DEATH-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Anthropology of Death",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 85,
+    "values": {
+      "courseId": "LITE-SATIRE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of Satire",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 86,
+    "values": {
+      "courseId": "PHYS-LIGHT-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Physics of Light",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 87,
+    "values": {
+      "courseId": "ETHI-EERING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Ethics of Genetic Engineering",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 88,
+    "values": {
+      "courseId": "ART-NATION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Procrastination",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 89,
+    "values": {
+      "courseId": "EXPE-BAKING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Experimental Baking",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 90,
+    "values": {
+      "courseId": "SCIE-HEROES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Superheroes",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 91,
+    "values": {
+      "courseId": "MYTH-OCIETY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Mythology and Folklore in Modern Society",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 92,
+    "values": {
+      "courseId": "PHIL-RWARS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Star Wars",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 93,
+    "values": {
+      "courseId": "LITE-HRONES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of Game of Thrones",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 94,
+    "values": {
+      "courseId": "CREA-MEDIA-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Creative Writing for Social Media",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 95,
+    "values": {
+      "courseId": "UNDE-MEMES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Understanding Internet Memes",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 96,
+    "values": {
+      "courseId": "ANTH-FFOOD-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Anthropology of Food",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 97,
+    "values": {
+      "courseId": "HIST-BOOKS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Comic Books",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 98,
+    "values": {
+      "courseId": "PSYC-NSHIPS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Romantic Relationships",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 99,
+    "values": {
+      "courseId": "SCIE-PINESS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Happiness",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 100,
+    "values": {
+      "courseId": "ART-ELLING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Storytelling",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 101,
+    "values": {
+      "courseId": "MUSI-EATLES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Music of Beatles",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 102,
+    "values": {
+      "courseId": "SOCI-MEDIA-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Social Media",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 103,
+    "values": {
+      "courseId": "PHIL-POTTER-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Harry Potter",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 104,
+    "values": {
+      "courseId": "ART-EAKING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Public Speaking",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 105,
+    "values": {
+      "courseId": "HIST-IPHOP-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Hip Hop",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 106,
+    "values": {
+      "courseId": "SCIE-SLEEP-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Sleep",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 107,
+    "values": {
+      "courseId": "PSYC-DREAMS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Dreams",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 108,
+    "values": {
+      "courseId": "ART-COMEDY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Stand-up Comedy",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 109,
+    "values": {
+      "courseId": "PHIL-ICTION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Science Fiction",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 110,
+    "values": {
+      "courseId": "LITE-NKING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of Stephen King",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 111,
+    "values": {
+      "courseId": "HIST-DROLL-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Rock and Roll",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 112,
+    "values": {
+      "courseId": "ART-MAKING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Film Making",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 113,
+    "values": {
+      "courseId": "SCIE-CHANGE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Climate Change",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 114,
+    "values": {
+      "courseId": "PSYC-OTIONS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Emotions",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 115,
+    "values": {
+      "courseId": "SOCI-GENDER-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Gender",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 116,
+    "values": {
+      "courseId": "ART-GRAPHY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Digital Photography",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 117,
+    "values": {
+      "courseId": "HIST-FJAZZ-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Jazz",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 118,
+    "values": {
+      "courseId": "PHIL-MATRIX-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Matrix",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 119,
+    "values": {
+      "courseId": "LITE-OLKIEN-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of J.R.R. Tolkien",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 120,
+    "values": {
+      "courseId": "SCIE-RITION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Nutrition",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 121,
+    "values": {
+      "courseId": "PSYC-CTIONS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Addictions",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 122,
+    "values": {
+      "courseId": "ART-DESIGN-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Graphic Design",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 123,
+    "values": {
+      "courseId": "SOCI-FRACE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Race",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 124,
+    "values": {
+      "courseId": "HIST-NWEST-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of American West",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 125,
+    "values": {
+      "courseId": "PHIL-GDEAD-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Walking Dead",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 126,
+    "values": {
+      "courseId": "MUSI-DYLAN-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Music of Bob Dylan",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 127,
+    "values": {
+      "courseId": "SCIE-AGING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Aging",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 128,
+    "values": {
+      "courseId": "PSYC-NALITY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Personality",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 129,
+    "values": {
+      "courseId": "ART-HANDS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Calligraphy and using your hands",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 130,
+    "values": {
+      "courseId": "HIST-ASHION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Fashion",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 131,
+    "values": {
+      "courseId": "SOCI-VIANCE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Deviance",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 132,
+    "values": {
+      "courseId": "PHIL-RUNNER-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Blade Runner",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 133,
+    "values": {
+      "courseId": "LITE-INGWAY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of Ernest Hemingway",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 134,
+    "values": {
+      "courseId": "SCIE-ERCISE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Exercise",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 135,
+    "values": {
+      "courseId": "PSYC-TRAUMA-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Trauma",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 136,
+    "values": {
+      "courseId": "ART-ORKING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Woodworking",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 137,
+    "values": {
+      "courseId": "HIST-GREECE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Ancient Greece",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 138,
+    "values": {
+      "courseId": "SOCI-CRIME-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Crime",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 139,
+    "values": {
+      "courseId": "PHIL-RINGS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Lord of Rings",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 140,
+    "values": {
+      "courseId": "MUSI-MOZART-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Music of Mozart",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 141,
+    "values": {
+      "courseId": "SCIE-ICTION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Addiction",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 142,
+    "values": {
+      "courseId": "PSYC-VATION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Motivation",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 143,
+    "values": {
+      "courseId": "ART-ASHION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Fashion",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 144,
+    "values": {
+      "courseId": "HIST-SSANCE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Renaissance",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 145,
+    "values": {
+      "courseId": "SOCI-FWORK-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Work",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 146,
+    "values": {
+      "courseId": "PHIL-TZONE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Twilight Zone",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 147,
+    "values": {
+      "courseId": "LITE-WOOLF-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of Virginia Woolf",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 148,
+    "values": {
+      "courseId": "SCIE-HAVIOR-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Animal Behavior",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 149,
+    "values": {
+      "courseId": "ART-OTTERY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Pottery",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 150,
+    "values": {
+      "courseId": "HIST-TROME-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Ancient Rome",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 151,
+    "values": {
+      "courseId": "SOCI-ZATION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Globalization",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 152,
+    "values": {
+      "courseId": "PHIL--FILES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of X-Files",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 153,
+    "values": {
+      "courseId": "MUSI-THOVEN-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Music of Beethoven",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 154,
+    "values": {
+      "courseId": "SCIE-MEMORY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Memory",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 155,
+    "values": {
+      "courseId": "PSYC-TIVITY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Creativity",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 156,
+    "values": {
+      "courseId": "ART-ITTING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Knitting",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 157,
+    "values": {
+      "courseId": "HIST-WARII-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of World War II",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 158,
+    "values": {
+      "courseId": "SOCI-CATION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Education",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 159,
+    "values": {
+      "courseId": "PHIL-GALAXY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Hitchhiker's Guide to Galaxy",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 160,
+    "values": {
+      "courseId": "LITE-GERALD-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of F. Scott Fitzgerald",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 161,
+    "values": {
+      "courseId": "SCIE-TATION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Meditation",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 162,
+    "values": {
+      "courseId": "PSYC-LUENCE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Social Influence",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 163,
+    "values": {
+      "courseId": "ART-ELDING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Welding",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 164,
+    "values": {
+      "courseId": "HIST-LUTION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Industrial Revolution",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 165,
+    "values": {
+      "courseId": "SOCI-NDART-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Media and Art",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 166,
+    "values": {
+      "courseId": "PHIL-NSHOW-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Truman Show",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 167,
+    "values": {
+      "courseId": "MUSI-STONES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Music of Rolling Stones",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 168,
+    "values": {
+      "courseId": "SCIE-LUTION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Evolution",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 169,
+    "values": {
+      "courseId": "PSYC-IGENCE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Intelligence",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 170,
+    "values": {
+      "courseId": "ART-CRAFTS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Paper Crafts",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 171,
+    "values": {
+      "courseId": "HIST-VEMENT-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of Civil Rights Movement",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 172,
+    "values": {
+      "courseId": "SOCI-AGING-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Sociology of Aging",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 173,
+    "values": {
+      "courseId": "PHIL-GAMES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Philosophy of Hunger Games",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 174,
+    "values": {
+      "courseId": "LITE-ORWELL-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Literature of George Orwell",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 175,
+    "values": {
+      "courseId": "SCIE-NETICS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Science of Genetics",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 176,
+    "values": {
+      "courseId": "PSYC-EPTION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Psychology of Perception",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 177,
+    "values": {
+      "courseId": "ART-WELRY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Art of Making Jewelry ",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 178,
+    "values": {
+      "courseId": "MUGG-TUDIES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Muggle studies",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 179,
+    "values": {
+      "courseId": "HIST-MAGIC-2077--1",
+      "dataSourceId": "update_me",
+      "name": "History of magic",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 180,
+    "values": {
+      "courseId": "DEFE-KARTS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Defense against the dark arts and snakes",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 181,
+    "values": {
+      "courseId": "POTI-OTIONS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Potions",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 182,
+    "values": {
+      "courseId": "MATH-UMBERS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Maths 101 and other numbers",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 183,
+    "values": {
+      "courseId": "HERB-BOLOGY-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Herbology",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 184,
+    "values": {
+      "courseId": "CARE-ATURES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Care of magical creatures",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 185,
+    "values": {
+      "courseId": "DIVI-NATION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Divination",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 186,
+    "values": {
+      "courseId": "TRAN-RATION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Transfiguration",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 187,
+    "values": {
+      "courseId": "HOW-DRAGON-2077--1",
+      "dataSourceId": "update_me",
+      "name": "How to train your dragon",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 188,
+    "values": {
+      "courseId": "PYTH-SNAKES-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Python 101 and other type of snakes",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 189,
+    "values": {
+      "courseId": "BEET-SDOGS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Beethoven and other famous dogs",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 190,
+    "values": {
+      "courseId": "LILI-LUTION-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Lilian and Stichers: The friendship revolution",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 191,
+    "values": {
+      "courseId": "QUID-YEARS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Quidditch over the years",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 192,
+    "values": {
+      "courseId": "LEAR-CRATCH-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Learn Music Production From Scratch",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 193,
+    "values": {
+      "courseId": "THE-E2023-2077--1",
+      "dataSourceId": "update_me",
+      "name": "The Complete Stock Trading Course Melon Tolsk",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 194,
+    "values": {
+      "courseId": "HOW-0DAYS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "How To Become A Gardening Pro In 30 Days",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 195,
+    "values": {
+      "courseId": "SUPP-NTIALS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Supply Chain Management 101 - Learn The Essentials",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 196,
+    "values": {
+      "courseId": "MICR-COURSE-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Microsoft Excel Ninja Course",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 197,
+    "values": {
+      "courseId": "FITN-BETTER-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Fitness and Health: A guide to eat better",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 198,
+    "values": {
+      "courseId": "MUGG-RESENT-2077--1",
+      "dataSourceId": "update_me",
+      "name": "Muggles and the dangers they represent",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  },
+  {
+    "id": 199,
+    "values": {
+      "courseId": "REST-INNERS-2077--1",
+      "dataSourceId": "update_me",
+      "name": "REST APIs for beginners",
+      "ultraStatus": "update_me",
+      "availability": {
+        "available": "Yes"
+      }
+    }
+  }
+]
